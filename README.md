@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for Job Seekers, Job Transitioners, and Job Swappers to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
+Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard is designed specifically for Job Seekers, Job Transitioners, and Job Swappers to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
 ## Skills Showcased
 This project put key Power BI features into practice. Here's what we mastered:
